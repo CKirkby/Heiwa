@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eea30e3-3c7e-470d-9584-eb6ccfe66885" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyProject.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyProject.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animation/ABP_PlayerAnim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Animation/ABP_PlayerAnim.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/FinishedHouses/blacksmith/villageBlackSmith.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/FinishedHouses/blacksmith/villageBlackSmith.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_Hair_BaseColor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_Hair_BaseColor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_Hair_Normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_Hair_Normal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_Hair_OcclusionRoughnessMetallic.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_Hair_OcclusionRoughnessMetallic.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_clothes_BaseColor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_clothes_BaseColor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_clothes_Normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_clothes_Normal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_clothes_OcclusionRoughnessMetallic.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_clothes_OcclusionRoughnessMetallic.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_shoes_BaseColor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_shoes_BaseColor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_shoes_Normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_shoes_Normal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_shoes_OcclusionRoughnessMetallic.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_shoes_OcclusionRoughnessMetallic.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_skin_BaseColor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_skin_BaseColor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_skin_Normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_skin_Normal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_skin_OcclusionRoughnessMetallic.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/LILRED_skin_OcclusionRoughnessMetallic.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/Player_Clothes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/Player_Clothes.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/Player_Face.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/PlayerTexts/Player_Face.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet_Sprite_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet_Sprite_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet_Sprite_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet_Sprite_3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet_Sprite_4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Player/redhood_faces_Sprite_Sheet_Sprite_5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/river.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/river.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Material/Enemy/George_unwrapped_DefaultMaterial_BaseColor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Material/Enemy/George_unwrapped_DefaultMaterial_BaseColor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Material/Enemy/M_Mushroom.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Material/Enemy/M_Mushroom.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Programming/Blueprints/AI_Blueprints/BP_Enemy_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Programming/Blueprints/AI_Blueprints/BP_Enemy_Base.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Programming/Blueprints/AI_Blueprints/BP_NPC_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Programming/Blueprints/AI_Blueprints/BP_NPC_Base.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Programming/Blueprints/BP_PatrolPoint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Programming/Blueprints/BP_PatrolPoint.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Programming/Blueprints/BP_Pot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Programming/Blueprints/BP_Pot.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Programming/UI/WBP_MainHUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Programming/UI/WBP_MainHUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Texture/Area_MdBuild_SdGround01_Mat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Texture/Area_MdBuild_SdGround01_Mat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/0/AU/CLOSJ1Q0399YE44L2FTRYD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/0/AU/CLOSJ1Q0399YE44L2FTRYD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/0/GM/2KA8V1C4FWMX0TMFXXQ6ZI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/0/GM/2KA8V1C4FWMX0TMFXXQ6ZI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/0/JW/LJ3S1V1H7MFM3V69BQ0NSW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/0/JW/LJ3S1V1H7MFM3V69BQ0NSW.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/1/1W/NRH0IRAXMSDS9VXMBBNF0Y.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/1/1W/NRH0IRAXMSDS9VXMBBNF0Y.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/1/KI/59RQM13R4DQZ2UMQ60S5Z4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/1/OX/IPJ5X1U1XZD241MIWFWK0N.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/1/OX/IPJ5X1U1XZD241MIWFWK0N.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/2/5O/EYRX9II8YQGJPHF8XSOVQW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/2/Y1/7BB7SRKDA1Y3REAB3TOI5G.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/2/Y1/7BB7SRKDA1Y3REAB3TOI5G.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/2/YM/SK50KH84Y1WUZXIY572PLB.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/2/YM/SK50KH84Y1WUZXIY572PLB.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/3/5W/3950H87G247MDHM0XZODHT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/3/5W/3950H87G247MDHM0XZODHT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/3/IC/QO3N3QPD4A5LOI52TA9C9I.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/3/IC/QO3N3QPD4A5LOI52TA9C9I.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/3/QM/TW3WZR51X7TQQVFCFGXINQ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/3/QM/TW3WZR51X7TQQVFCFGXINQ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/4/DA/1INDDRMNGPEO3AH9NQNZYP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/4/DA/1INDDRMNGPEO3AH9NQNZYP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/4/W2/EODLZ0KLP3RFK633H6EUMI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/4/W2/EODLZ0KLP3RFK633H6EUMI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/5/21/XWAWE5JYUH35ZQNKJXZATZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/5/21/XWAWE5JYUH35ZQNKJXZATZ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/5/ES/P5RCICPNG8CN44U5F9X2B4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/5/ES/P5RCICPNG8CN44U5F9X2B4.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/5/JD/43EHJF55FCA0KNXGVA1YL6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/5/JD/43EHJF55FCA0KNXGVA1YL6.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/6/LU/R02C1TJHIEH91X4BZ2EADL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/6/LU/R02C1TJHIEH91X4BZ2EADL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/6/ZI/SWAS5TJWWMMUGMHWDF7EUJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/6/ZI/SWAS5TJWWMMUGMHWDF7EUJ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/1B/06UAWREJXYHICFBXTAGPP9.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/1B/06UAWREJXYHICFBXTAGPP9.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/J6/DDYD3OMGRR595KLAGLOHFM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/J6/DDYD3OMGRR595KLAGLOHFM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/LG/K931MBHCMSPPVLOPVG2VQ0.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/LG/K931MBHCMSPPVLOPVG2VQ0.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/YR/D7U7UH9WRTP7K9C583HSZT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/8/YR/D7U7UH9WRTP7K9C583HSZT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/9/16/EJYDF8M11AR8HPKEFXEJLM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/9/16/EJYDF8M11AR8HPKEFXEJLM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/A/NM/MRQ489U0S16YZUROBP0233.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/A/NM/MRQ489U0S16YZUROBP0233.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/B/P5/DL9SUVD0A869R1VDTWRSXL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/B/P5/DL9SUVD0A869R1VDTWRSXL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/C/EY/QPR63A3ZSTRIPQ41FWN2RJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/C/EY/QPR63A3ZSTRIPQ41FWN2RJ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/C/ZV/9FN1A5NUDOHXUJ0BQTOL7C.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/C/ZV/9FN1A5NUDOHXUJ0BQTOL7C.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/D/1R/T3J7ECZRWAWS6BQTVOI9GK.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/D/1R/T3J7ECZRWAWS6BQTVOI9GK.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/D/U2/E2NTLXKOR9258FXCNRFO43.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/D/U2/E2NTLXKOR9258FXCNRFO43.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/E/4G/M4VFGTXBGCKB4HB2195VPM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/E/4G/M4VFGTXBGCKB4HB2195VPM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/E/OF/Y2P1RICETZJWASIY310AD9.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/E/OF/Y2P1RICETZJWASIY310AD9.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Village/E/SA/4GT0V7O9U6KL1678Z2KOY1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Village/E/SA/4GT0V7O9U6KL1678Z2KOY1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/BARROWWW/BARROW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/BARROWWW/BARROW_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/BARROWWW/BARROW_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/BARROWWW/BARROW_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/BARROWWW/Wbarrow.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/BLUE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/BLUE_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/FLWOERS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/FLWOERS_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/FLWOERS_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/FLWOERS_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/WRAPPER.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/YELLOW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/FLOWERS/YELLOW_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/Oven.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/Oven_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/Oven_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/Oven_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/anvil/anvil.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/anvil/blacksmith.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/anvil/blacksmith_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/anvil/blacksmith_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/anvil/blacksmith_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/candle/light.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/candle/tools_Cylinder_020.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/candle/tools_Cylinder_022.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/candle/tools_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/candle/tools_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/candle/tools_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/ovenmat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/tools/tools.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/tools/tools_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/tools/tools_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/tools/tools_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/tools/toolsmat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/wheel/waterbin.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/wheel/wheel.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/wheel/wheelALONE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/wheel/wheel_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/wheel/wheel_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/blacksmith/wheel/wheel_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/flag/FLAGS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/flag/FLAGS_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/flag/FLAGS_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/flag/FlagsMat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/pot/Pot.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/pot/Pot_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/pot/Pot_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/pot/Pot_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/pot/potmat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/cuttingm.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_Cube_010.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_Cube_014.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_Cube_015.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_Cylinder_017.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/cuttingboards/tools_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/tools/tools_Cube_009.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/tools/tools_Cube_011.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/tools/tools_Cube_012.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/tools/tools_Cube_013.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/tools/tools_Cylinder_015.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/shops/tools/tools_Cylinder_016.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/trays.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/traysMODEL_Cube.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/traysMODEL_Cube_016.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/traysMODEL_Cylinder_018.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/trays_DefaultMaterial_BaseColor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/trays_DefaultMaterial_Normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/Assets/SmallAssets/trays/trays_DefaultMaterial_OcclusionRoughnessMetallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/3J/YC17L53KJXBZ2W035562C1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/5Z/PSTPRR016FVD7PP1E1MJDZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/75/AEAUS89IU37X8DX3HKIMSH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/8V/G193L62JWM7NMLC89ORRMJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/FT/WO93RH1I2MI40CQSLAXWOW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/H5/LNZK6BAI9WSI3WGKGBV7AH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/MX/JYAW8C3P36O6KANHBFHW34.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/N5/ZMTYVIGP890FWC2GJAHO4K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/NO/7RX3PMSKYP6D350SZFMCXO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/VG/GQQ13ZNJC1ZCI1GG1C9MT9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/WP/ESS0JO4VDW3OWAXKP6PUIG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/XR/5ZPMQ7UGLP9A96YZ2I3L0Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/0/YZ/G4QR03X5ZMBX4WBCNBQMEV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/1/1B/D8RO5DCI3SFS6THXUX72FQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/1/FZ/BKZTYI5JHVP50ZSOZ3CTXK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/1/I0/BNWB09EGK7UJQSHNVNA7YZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/1/MV/BJRQMO6TCFZ05SWZBNKEG2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/12/RO90C9JYLVROSORKK5YYTS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/15/07192PMPBQI9WH3UWTRZZA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/3A/MBNJ7QOT0QQ2XGKPI9L66A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/5H/XESJYDVYD0WFQ0W12JOH2E.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/6X/3W648H6FWMZWU6JCZW22EX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/7S/3QMPSKDLMS6YZUNN2HFWPQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/CT/HY4JG47LNIN2AZW0I5U2ZV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/EP/4QBKJF7WX5A2O8ULVA7Y7I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/IB/SVQTJO9PW58JCOAIG9BQ2U.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/JE/3QTDWV693L4DLDP54AG4BS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/MV/YF1NZJ6DIQBYFEGVMTSYEU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/QS/R6UWBBX0QPFW5DERK6LOVL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/Y3/G6LG1PIEYRA12HHV9RVXIG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/Y8/GRJXP9CLC002G01DGWE24X.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/2/ZJ/XVJYBJWDT5L2PMUVA2HF8W.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/24/7SRWI0SEIUUXLN9C0C6TKD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/6G/YML72W7VXUNCKUDTE2WY3X.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/AF/P37PMYE7DX7SB03NASMA76.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/AV/BO928RE7VRDDABA7WFRPJU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/CK/3DVKMFRRN987Y3JZEIID1I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/GS/3V2G3S1AD2LGF66MWA79GS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/IM/3NCZ1Q8S0SOQWTJVLCJD9N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/JZ/DD28C2YI2BP06QGE34I53A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/L7/78PM5C16I1SHPLVF5LALUE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/MG/RUB69I3QYMY6Q9X09H39RN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/Q9/2OCTBLIYWU1RA7RA835CHD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/SY/7UG0SWX9SIM8H7O2PQKOVZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/TO/UJTFBIRDS3XBCLEWUW2LPU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/3/YO/JNF3PQGPOKF008JDYJ5TUY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/3R/WW7GGD9EM5EA970V0SQGCN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/9I/X34FSY6XINYQHO77AKUIAS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/BH/EI98D3J190S7T211X2LEXO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/GR/8Y9PL8TYTRXHMYXSUWFH6B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/Q3/YFDHNPUMO0K0520DB8WL2P.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/RP/EC5AXR9LZPCKNBVNMQCH2D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/4/VM/I7L6OFOWONHOEQVCGLS263.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/5/0M/Y751FA2TVLMHK6ZK7RS75Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/5/78/ZP9563WB8AU4E31STY1ITE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/5/HQ/L5RC2SHRYRI4OZ3XLH48OP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/5/IA/KPUICTQVXTRIFXIFSAO8K6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/5/P4/MD7R8WX08386Z29TB6HUMX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/5/VE/W4HR3P8G39XFE1FDZINOTZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/6/7A/NI2QDPF4W3CZ96DVTLHHE2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/6/J6/PN43YL88QMNH8U92C387M4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/6/JT/7B9L3CLROCHZXLSO2KMPQY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/2M/INYXIPR2U7D7D1E0KRLUPW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/51/U2VY7MHATT9ZZ3UIFH8JM4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/FK/20KQC5TA9FTJPCD1GZ5CIH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/G8/ZQ1MX2VFI2SF5SBDC7QQ06.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/GG/UTUUXLIMJW1DW3IL36A8QW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/GI/9H7H40NM64888N059RVE7O.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/JO/H796UQF4EMH2MWGVUBLALU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/MI/ER7ZSYEAHC7AKSBJR7HQIN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/QT/5064ZBS0ZOIEQ5LUQPFSOG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/QT/GEL31DP488F4D9B8IWE1I1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/TA/MEAO6CZABSTITWFHDOMRE1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/TN/WJUER96OOI0G61JOWV8X41.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/Y8/4ZMC4AZG1ZXD5LT0RRTFA3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/7/ZY/BB83V02YSDMLXR6AH0B9PP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/2K/AE987PPC6KN77LA8X8G1JP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/8N/X83CHE813JA0TJWH7HFP9V.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/9Y/RDGTA1T2FVKB4G61KKH5O3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/A1/AKJODKSH3CWFTQDV6URFYH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/CT/B2C7DHRI4ZNGHYJ9YS4ZQG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/D9/VWYTXOM3HHQZRSOATS8N76.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/HP/0LVMATKW7GBWM26IJK23FP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/I3/5JVEEWQP6BBWI4DS3S005I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/LO/BY9ZGPBAD2CA2R7DPBH63K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/SW/FOODCZRNJ4ZBWR4BPIQ4KP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/8/ZO/VNZZQL9E9MDHERCRREDX6F.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/3V/HY68SMSIK1LYYW0PRZ7ITX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/5E/Q135ELTE5T6OFJLQFWOC6Z.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/5N/HA2HMAZDSVJ1O8BTGOOOQI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/62/30Y7JLBO2H42ADH89LRDWM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/ER/84N9BSRCKE15UYPI00TPX9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/GV/GCKGBZPD2F2BHETIKBJ4CQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/H7/2674C41TBHKZE3HFBUDQ06.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/I7/NSL5RAOO4G6MSJOH9EKA9H.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/JK/EX9E3WXFFIIPSKQ7A6R3BC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/NH/SWUOJJQUR85G1SV56G37YR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/RD/D3KG0RSB5Q716REY0R9EGQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/X4/WCAVPIPRA4AT37LUGZ07PX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/X9/G4X80DKGL6LQI2NELUIER3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/9/XO/B0GS5ZLDLMLLAYSOC5ECTL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/A/1K/CR8ZA8GJZYSDWPD03BR9BU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/A/E7/5SOVLK3RFYYFI72HM4ESJZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/A/FS/G7CXEJ5YGQX8I7YVKS6C0A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/0S/L0S4883AGTFB58F2EZHTAO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/18/Z0X2R7NVFLGVBKH94WQ65Q.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/2E/10BQAB7QP251X2N3BLVT9S.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/8R/UC884RB2R3KXXYGHXP7B8L.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/8X/HYM54RMRJT55DGPBKWCD05.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/DG/LDR89AVOAL657220LBAV32.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/DS/TJOA8HO927AXJA17F0V53R.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/I8/9DJV6TYT5K3MUR2K14YS06.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/QX/0ZNFVTTUBOL49X18U0EK6B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/QX/870TNZ6NWI0NYDHTRR63HK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/RL/Y5CMWWBN2ZITQN659AF5PC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/V8/SJA532HFHW5NZ0X2UD73E1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/WA/A0TRJ09JYMC2MXYR0RS23E.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/WI/LNBO3WCBTIW4E89HEZFQIQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/B/WP/45G6WR276ZS5CDKQ8O7XSA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/7D/DE88QZDF0YGZQY7HVW8G7B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/BT/8BXI3CDEKU7CM10CVOYR5M.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/C6/A40V4CX1BT48PCQQFA3LCA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/FZ/17J2QVSJOT5NT9R2PDUQ7O.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/HK/82D5GPB3NNEDFXIVRI2BT6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/N0/MBPZ0MBKYZBQEIWUBUKP2N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/O1/ISM3N5YE9PQJNHTZ1VENEB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/R2/7HXXENZ9793EYW07MTYSNX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/VK/U7X0IFO0FQRZA46W2F98S5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/C/ZT/I0K4WYC73U5G7DY8FFUNAA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/8O/CAET88YC7TG0Z8LO5K9O1Q.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/AE/937R18QSBPUVHGJQPOGUPQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/BJ/EZ6MGBVR6U88JKRMSDMLXY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/CI/F1RR9XX1NEEZPQ17Q62ORN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/FM/JBVVRQVHEJNWDC3KQSBA3V.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/GA/OB9S2YILPHWTBF0396U1MZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/GF/LU84SY1K7SEFH3TIEXAGGO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/I2/WNX1S6CGV6XWOMQBNFPUXV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/PJ/2K0DOXQPRKEBBYZ0PPRSG0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/R0/MQHI71S4IQDYY8LXWRE1A4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/VQ/R4A7Y79631Q9KIFGAW16FH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/XJ/0CF14Z9TRQ2GOOPOHC8ADT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/YV/AIO8L19A8AEZTVG0N47AG1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/D/ZO/DM5TBQNY65B2QNLIPGS5F6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/11/O3G1BV63AUQGEQLKU2YILN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/1D/37K1QNJXEX93FBKQU81SA2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/3X/EZ2IWOX94KRUO5RWGZ6A6O.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/7D/X7BE4961HDE0Y955U3FHVP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/7J/49JAKZ48E4P23NVDWWYLDQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/J5/5VR1C5D4C5Q5YJ5FT6X6V1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/N6/SJ6XZLWIQCGL41Z4Z98Q9N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/NJ/4BGI3NPPO6CI696FETSC10.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/QI/QCGQUT4UH1114KCAEPPBTN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/RK/5NHRBSGEXX7GJCPP9PC562.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/UR/TQK1WFHHUW1ZLGWC023X3S.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/E/WI/9SM11H01IAB3VNK8CR48G4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/F/0F/RWLMZ3G1674SSN8S9U1OYQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/F/2Y/2AT7ZBRQ6VY92CXPD8N5L0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Content/__ExternalActors__/Village/F/4D/L9URJUKNFKX44LVKM4KFC2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/AutoScreenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/0/L8/PUX13V48VI4AMYPEZPK524_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/1/54/LCCHC964KE4NJA2GO5D28P_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/1/54/LCCHC964KE4NJA2GO5D28P_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/1/5Q/UD9TJ4FKDQPYSJFF1L07ND_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/1/BX/LL5TYAWCUKH44PC30HGWOD_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/1/BX/LL5TYAWCUKH44PC30HGWOD_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/3/6W/D6VR3C7QMQ0CIADGAI7HM5_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/3/6W/D6VR3C7QMQ0CIADGAI7HM5_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/3/6W/D6VR3C7QMQ0CIADGAI7HM5_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/4/50/HRTMNTYLXMQ2411UEUEJJC_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/4/50/HRTMNTYLXMQ2411UEUEJJC_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/4/50/HRTMNTYLXMQ2411UEUEJJC_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/4/50/HRTMNTYLXMQ2411UEUEJJC_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/4/QP/VZYJM7IN4R1V1FX64783LL_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/4/QP/VZYJM7IN4R1V1FX64783LL_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/5/Y6/3PR7SIVC9HWRUHFNB9WDI7_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/5/Y6/3PR7SIVC9HWRUHFNB9WDI7_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/5/Y6/3PR7SIVC9HWRUHFNB9WDI7_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/6/EB/FYZ76MH2ERIU9Y1US0GJFE_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/7/2X/EEPQPT3B50MR7NYOX8WKRR_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/7/2X/EEPQPT3B50MR7NYOX8WKRR_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/7/2X/EEPQPT3B50MR7NYOX8WKRR_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/7/I0/RDUFIOBHWF8GDLZRW7NRLQ_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/7/I0/RDUFIOBHWF8GDLZRW7NRLQ_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/8/BN/KPEEABDC2C9YTQPCR40GJ3_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/8/BN/KPEEABDC2C9YTQPCR40GJ3_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/8/RL/HB4LN4YQPFWO0SQNMRMUPA_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/8/RL/HB4LN4YQPFWO0SQNMRMUPA_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/8/V3/A7U56180NZSGS2NTW620WI_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/8/V3/A7U56180NZSGS2NTW620WI_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/9/1F/SIJ9D4CUPMRDTFF1HNDV8D_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/9/1F/SIJ9D4CUPMRDTFF1HNDV8D_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/9/E8/GGOFERIGC0QBXRULZ2W1RZ_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/9/E8/GGOFERIGC0QBXRULZ2W1RZ_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/A/3F/8SUGPN2EWRNK6QXZINQB96_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/A/3F/8SUGPN2EWRNK6QXZINQB96_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/A/3F/8SUGPN2EWRNK6QXZINQB96_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/A/3F/8SUGPN2EWRNK6QXZINQB96_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/A/BJ/GRY8CU2U013VTWDCQOZSUD_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/A/BJ/GRY8CU2U013VTWDCQOZSUD_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/B/FK/0R2G4BROF2PA4I6DSX76VN_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/B/FK/0R2G4BROF2PA4I6DSX76VN_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/B/FK/0R2G4BROF2PA4I6DSX76VN_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/B/G9/PDFFH0NEWWEV6XTOR0EXGE_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/C/P1/HSOHE2NTSDEDA5X8Q2DGRV_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/C/P1/HSOHE2NTSDEDA5X8Q2DGRV_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/C/P1/HSOHE2NTSDEDA5X8Q2DGRV_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/A2/1KBAM8ZEYROACE5F80YWGP_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/A2/1KBAM8ZEYROACE5F80YWGP_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/A2/1KBAM8ZEYROACE5F80YWGP_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Autosaves/Game/__ExternalActors__/Village/E/ZT/E9I9Q1K7J90QW4M641O94M_Auto9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Logs/MyProject.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Saved/Telemetry/Telemetry.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CKirkby&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ViviViare/medieval-village.git&quot;,
+    &quot;accountId&quot;: &quot;96833f52-7204-401c-88a4-32502e51fee4&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Unreal Engine/UE_5.4/Engine/Source/Runtime/Engine/Private/GameplayStatics.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wp2nnBfaXUzIKxAAXpNTZ5RV4t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;NewMerge&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eea30e3-3c7e-470d-9584-eb6ccfe66885" name="Changes" comment="" />
+      <created>1723770081805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723770081805</updated>
+      <workItem from="1746724365764" duration="4000" />
+      <workItem from="1746914308513" duration="2000" />
+      <workItem from="1748987374457" duration="14000" />
+      <workItem from="1748988096332" duration="5000" />
+      <workItem from="1749924403480" duration="159000" />
+      <workItem from="1749939107982" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
